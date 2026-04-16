@@ -126,7 +126,7 @@ pnpm i
 pnpm dev
 ```
 
-### Stage Web (Browser Version at [airi.moeru.ai](https://airi.moeru.ai))
+### Stage Web (Browser Version at [faxxxan/AIRI-AI](https://github.com/faxxxan/AIRI-AI))
 
 ```shell
 pnpm dev
@@ -141,7 +141,7 @@ pnpm dev:tamagotchi
 A Nix package for Tamagotchi is included. To run airi with Nix, first make sure to enable flakes, then run:
 
 ```shell
-nix run github:moeru-ai/airi
+nix run github:faxxxan/AIRI-AI
 ```
 
 #### NixOS
