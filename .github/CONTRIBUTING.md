@@ -1,4 +1,4 @@
-# Start contributing to [Project AIRI](https://github.com/moeru-ai/airi)
+# Start contributing to [Project AIRI](https://github.com/faxxxan/AIRI-AI)
 
 Hello! Thank you for your interest in contributing to this project. This guide will help you get started.
 
@@ -116,7 +116,7 @@ git rebase main
 
 ## Fork this project
 
-Click on the **Fork** button on the top right corner of the [moeru-ai/airi](https://github.com/moeru-ai/airi) page.
+Click on the **Fork** button on the top right corner of the [faxxxan/AIRI-AI](https://github.com/faxxxan/AIRI-AI) page.
 
 ## Clone
 
@@ -174,7 +174,7 @@ pnpm dev:tamagotchi
 > nr dev:tamagotchi
 > ```
 
-### Stage Web (Browser version for [airi.moeru.ai](https://airi.moeru.ai))
+### Stage Web (Browser version for [faxxxan/AIRI-AI](https://github.com/faxxxan/AIRI-AI))
 
 ```shell
 pnpm dev
@@ -190,7 +190,7 @@ pnpm dev
 
 ### UI Storyboard
 
-Browse the live UI component storyboard at [airi.moeru.ai/ui](https://airi.moeru.ai/ui/).
+Browse the live UI component storyboard at [faxxxan/AIRI-AI](https://github.com/faxxxan/AIRI-AI).
 
 ### Documentation site
 
@@ -351,7 +351,7 @@ You should be able to browse the branch on your fork repository.
 
 ## Creating Pull Request
 
-Navigate to [moeru-ai/airi](https://github.com/moeru-ai/airi) page, click on the **Pull requests** tab, and click on the **New pull request** button, click on the **Compare across forks** link, and select your fork repository.
+Navigate to [faxxxan/AIRI-AI](https://github.com/faxxxan/AIRI-AI) page, click on the **Pull requests** tab, and click on the **New pull request** button, click on the **Compare across forks** link, and select your fork repository.
 
 Review the changes, and click on the **Create pull request** button.
 
