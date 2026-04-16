@@ -341,13 +341,6 @@ git push origin <your-branch-name> -u
 
 You should be able to browse the branch on your fork repository.
 
-> [!NOTE]
->
-> If this is your first time contributing to this project, you need to add the upstream repository too:
->
-> ```shell
-> git remote add upstream https://github.com/moeru-ai/airi.git
-> ```
 
 ## Creating Pull Request
 
