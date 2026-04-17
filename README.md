@@ -10,6 +10,8 @@
 
 <h1 align="center">Project LUMI-AI</h1>
 
+<p align="center">CA :</p>
+
 <p align="center">An advanced LLM-powered virtual character platform featuring AI-driven conversational agents with VRM 3D character models, real-time voice interaction, and cross-platform support.</p>
 
 ---
