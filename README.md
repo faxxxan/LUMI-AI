@@ -1,4 +1,4 @@
-<a href="https://x.com/heeyyitslumi"><img src="https://img.shields.io/badge/%80@heeyyitslumi-black?style=flat&logo=x&labelColor=%23101419&color=%232d2e30"></a>
+<a href="https://x.com/heeyyitslumi"><img src="https://img.shields.io/badge/%80heeyyitslumi-black?style=flat&logo=x&labelColor=%23101419&color=%232d2e30"></a>
 
 <img width="100%" alt="banner" src="assets/banner.png" />
 
