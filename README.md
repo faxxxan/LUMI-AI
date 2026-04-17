@@ -1,6 +1,6 @@
 # Project AIRI-AI
 
-<img width="856" height="450" alt="banner" src="https://github.com/user-attachments/assets/a2f8a5c2-cfef-4370-b8c7-f3ae2476806f" />
+<img width="100%" alt="banner" src="assets/banner.png" />
 
 <p align="center">
   <a href="https://discord.gg/TgQ3Cu2F7A"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FTgQ3Cu2F7A%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&logo=discord&logoColor=white&label=&color=7389D8&labelColor=6A7EC2"></a>
