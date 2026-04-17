@@ -7,7 +7,7 @@
   <a href="https://github.com/faxxxan/LUMI-AI/blob/main/LICENSE"><img src="https://img.shields.io/github/license/faxxxan/LUMI-AI.svg?style=flat&colorA=080f12&colorB=1fa669"></a>
   <a href="https://x.com/heeyyitslumi"><img src="https://img.shields.io/badge/%40heeyyitslumi-black?style=flat&logo=x&labelColor=%23101419&color=%232d2e30"></a>
   
-  <a CA: 
+  <a href= CA:  a>
 </p>
 
 <h1 align="center">Project LUMI-AI</h1>
