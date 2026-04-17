@@ -1,4 +1,4 @@
-# Project AIRI-AI
+# Project LUMI-AI
 
 <img width="100%" alt="banner" src="assets/banner.png" />
 
@@ -8,18 +8,18 @@
   <a href="https://x.com/proj_airi"><img src="https://img.shields.io/badge/%40proj__airi-black?style=flat&logo=x&labelColor=%23101419&color=%232d2e30"></a>
 </p>
 
-<h1 align="center">Project AIRI-AI</h1>
+<h1 align="center">Project LUMI-AI</h1>
 
 <p align="center">An advanced LLM-powered virtual character platform featuring AI-driven conversational agents with VRM 3D character models, real-time voice interaction, and cross-platform support.</p>
 
 ---
 
-## 🎭 Meet the Characters
+##  Meet the Characters
 
 <table align="center" border="0">
   <tr>
     <td align="center" width="250">
-      <img src="https://via.placeholder.com/200x200/1a1a2e/f0f0f0?text=AIRI" alt="AIRI" width="150" height="150" style="border-radius: 50%;">
+      <img src="https://via.placeholder.com/200x200/1a1a2e/f0f0f0?text=AIRI" alt="LUMI" width="150" height="150" style="border-radius: 50%;">
       <h3>AIRI</h3>
       <p><i>The Elegant Scholar</i></p>
       <p>A refined anime-style character with sophisticated presence. Perfect for formal interactions and academic discussions.</p>
@@ -39,7 +39,7 @@
       <p>A cheerful character with a warm heart. Ideal for friendly conversations and emotional support.</p>
     </td>
     <td align="center" width="250">
-      <img src="https://via.placeholder.com/200x200/4a1942/f0f0f0?text=LUMI" alt="LUMI" width="150" height="150" style="border-radius: 50%;">
+      <img src="https://via.placeholder.com/200x200/4a1942/f0f0f0?text=LUMI" alt="AIRI" width="150" height="150" style="border-radius: 50%;">
       <h3>LUMI</h3>
       <p><i>The Mysterious Elegance</i></p>
       <p>A captivating character with an air of mystery. Perfect for deep conversations and creative storytelling.</p>
@@ -49,31 +49,31 @@
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🤖 AI-Powered Characters
+### AI-Powered Characters
 - **LLM Integration**: Powered by state-of-the-art language models for natural, context-aware conversations
 - **VRM 3D Models**: Beautiful anime-style 3D character models with expressive animations
 - **Real-time Voice**: Speech synthesis and recognition for voice interactions
 
-### 🎮 Cross-Platform Support
+### Cross-Platform Support
 - **Web Application**: Full-featured web interface (`stage-web`)
 - **Desktop App**: Electron-based desktop client (`stage-tamagotchi`)
 - **Mobile Apps**: iOS and Android support via Capacitor (`stage-pocket`)
 
-### 🔧 Developer-Friendly
+### Developer-Friendly
 - **Component System**: Extensible plugin architecture for custom components
 - **OpenTelemetry**: Built-in observability with IO tracing and metrics
 - **Hot Module Replacement**: Fast development with Vite
 
-### 🎨 UI/UX
+### UI/UX
 - **Vue 3 + TypeScript**: Modern reactive framework with type safety
 - **UnoCSS**: Utility-first CSS with instant HMR
 - **Responsive Design**: Adaptive layouts for all screen sizes
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Core Technologies
 | Category | Technologies |
@@ -112,7 +112,7 @@ airi/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Node.js 20+
@@ -194,7 +194,7 @@ pnpm dev:pocket:android
 
 ---
 
-## 🎯 Available Scripts
+## Available Scripts
 
 | Command | Description |
 |---------|-------------|
@@ -220,17 +220,16 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Copyright (c) 2024-PRESENT Neko Ayaka and the AIRI-AI contributors.
+Copyright (c) 2024-PRESENT Neko Ayaka and the LUMI-AI contributors.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-- **Original Project**: [moeru-ai/airi](https://github.com/moeru-ai/airi) - The foundation of this project
 - **VRM Models**: Thanks to VRM consortium for the 3D character standard
 - **Contributors**: All contributors who have helped improve this project
 
@@ -238,12 +237,8 @@ Copyright (c) 2024-PRESENT Neko Ayaka and the AIRI-AI contributors.
 
 ## 📬 Contact
 
-- Discord: [Join our server](https://discord.gg/TgQ3Cu2F7A)
-- Twitter: [@proj_airi](https://x.com/proj_airi)
-- Email: airi@moeru.ai
+- Twitter: (https://x.com/heeyyitslumi)
 
 ---
 
 <p align="center">
-  Made with ❤️ by the AIRI-AI Team
-</p>
