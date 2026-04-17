@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://discord.gg/TgQ3Cu2F7A"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FTgQ3Cu2F7A%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&logo=discord&logoColor=white&label=&color=7389D8&labelColor=6A7EC2"></a>
-  <a href="https://github.com/faxxxan/AIRI-AI/blob/main/LICENSE"><img src="https://img.shields.io/github/license/faxxxan/AIRI-AI.svg?style=flat&colorA=080f12&colorB=1fa669"></a>
-  <a href="https://x.com/proj_airi"><img src="https://img.shields.io/badge/%40proj__airi-black?style=flat&logo=x&labelColor=%23101419&color=%232d2e30"></a>
+  <a href="https://github.com/faxxxan/LUMI-AI/blob/main/LICENSE"><img src="https://img.shields.io/github/license/faxxxan/LUMI-AI.svg?style=flat&colorA=080f12&colorB=1fa669"></a>
+  <a href="https://x.com/heeyyitslumi"><img src="https://img.shields.io/badge/%40proj__airi-black?style=flat&logo=x&labelColor=%23101419&color=%232d2e30"></a>
 </p>
 
 <h1 align="center">Project LUMI-AI</h1>
@@ -89,7 +89,7 @@
 
 ### Project Structure
 ```
-airi/
+LUMI/
 ├── apps/
 │   ├── stage-web/          # Web application
 │   ├── stage-tamagotchi/    # Desktop Electron app
@@ -124,9 +124,7 @@ airi/
 
 ```bash
 # Clone the repository
-git clone https://github.com/faxxxan/AIRI-AI.git
-cd AIRI-AI
-
+git clone https://github.com/faxxxan/LUMI-AI
 # Install dependencies
 pnpm install
 
@@ -144,7 +142,7 @@ Create a `.env` file with the following variables:
 
 ```env
 # Database
-DATABASE_URL=postgresql://user:password@localhost:5432/airi
+DATABASE_URL=postgresql://user:password@localhost:5432/LUMI
 
 # Redis
 REDIS_URL=redis://localhost:6379
