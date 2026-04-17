@@ -6,6 +6,7 @@
   <a src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FTgQ3Cu2F7A%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&logo=discord&logoColor=white&label=&color=7389D8&labelColor=6A7EC2"></a>
   <a href="https://github.com/faxxxan/LUMI-AI/blob/main/LICENSE"><img src="https://img.shields.io/github/license/faxxxan/LUMI-AI.svg?style=flat&colorA=080f12&colorB=1fa669"></a>
   <a href="https://x.com/heeyyitslumi"><img src="https://img.shields.io/badge/%40heeyyitslumi-black?style=flat&logo=x&labelColor=%23101419&color=%232d2e30"></a>
+  
   CA: 
 </p>
 
