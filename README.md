@@ -19,13 +19,13 @@
 <table align="center" border="0">
   <tr>
     <td align="center" width="250">
-      <img src="https://via.placeholder.com/200x200/1a1a2e/f0f0f0?text=AIRI" alt="LUMI" width="150" height="150" style="border-radius: 50%;">
-      <h3>AIRI</h3>
+     <img width="1600" height="1454" alt="pic" src="https://github.com/user-attachments/assets/3144047d-2383-45ad-a39c-962c97f9bf69" />
+      <h3>Lumi</h3>
       <p><i>The Elegant Scholar</i></p>
       <p>A refined anime-style character with sophisticated presence. Perfect for formal interactions and academic discussions.</p>
     </td>
     <td align="center" width="250">
-      <img src="https://via.placeholder.com/200x200/2d4a3e/f0f0f0?text=KIRA" alt="KIRA" width="150" height="150" style="border-radius: 50%;">
+      <img width="1600" height="924" alt="pic" src="https://github.com/user-attachments/assets/83334655-55b9-426e-a3b7-bf078db3ec37" />
       <h3>KIRA</h3>
       <p><i>The Energetic Spirit</i></p>
       <p>A vibrant character with dynamic personality. Great for casual conversations and energetic interactions.</p>
@@ -33,14 +33,14 @@
   </tr>
   <tr>
     <td align="center" width="250">
-      <img src="https://via.placeholder.com/200x200/f5d742/333333?text=NOVA" alt="NOVA" width="150" height="150" style="border-radius: 50%;">
+      <img width="1600" height="1124" alt="pic" src="https://github.com/user-attachments/assets/67e69540-f83e-42f5-8d2a-008d72c667cf" />
       <h3>NOVA</h3>
       <p><i>The Warm Companion</i></p>
       <p>A cheerful character with a warm heart. Ideal for friendly conversations and emotional support.</p>
     </td>
     <td align="center" width="250">
-      <img src="https://via.placeholder.com/200x200/4a1942/f0f0f0?text=LUMI" alt="AIRI" width="150" height="150" style="border-radius: 50%;">
-      <h3>LUMI</h3>
+      <img width="1600" height="1203" alt="pic" src="https://github.com/user-attachments/assets/908998b8-f47d-40b0-8de4-173613a00bca" />
+      <h3>Airi</h3>
       <p><i>The Mysterious Elegance</i></p>
       <p>A captivating character with an air of mystery. Perfect for deep conversations and creative storytelling.</p>
     </td>
